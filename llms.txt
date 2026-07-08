@@ -21,10 +21,10 @@ independently built a RAG-powered learning application on the Anthropic
 API. Certified Scrum Product Owner (CSPO). Based in Melbourne, Australia.
 
 ## Career Journey
-- [Career Timeline](/journey.md): Chronological narrative from SAP ABAP
+- [Career Timeline](/#journey): Chronological narrative from SAP ABAP
   developer (Accenture, 2013) through enterprise BA roles (ANZ, LTM/CFS)
   to AI governance leadership today.
-- [About](/about.md): Background, working philosophy, and approach to
+- [About](/#about): Background, working philosophy, and approach to
   responsible AI adoption.
 
 ## Certifications & Skills
@@ -37,20 +37,20 @@ API. Certified Scrum Product Owner (CSPO). Based in Melbourne, Australia.
   SAP ABAP, SQL, Tableau, Power BI, RAG architecture, Anthropic API
 
 ## Case Studies & Projects
-- [CFS Edge Adviser AI — Governing Enterprise AI Adoption](/projects/cfs-edge-ai.md):
+- [CFS Edge Adviser AI — Governing Enterprise AI Adoption](/#cfs-edge-ai):
   Led BA and governance for a pilot scoped to select licensees and
   practices, now expanding to the full CFS Edge adviser base.
-- [Nambik AI — Founding an Independent AI Consultancy](/projects/nambik-ai.md):
+- [Nambik AI — Founding an Independent AI Consultancy](/#nambik-ai):
   Founded Nambik AI and delivered its first client engagement — a live
   24/7 inbound AI voice agent for a print industry client — using Retell AI,
   ElevenLabs, and n8n.
-- [AI Digital Mentor — RAG-Powered Learning Application](/projects/ai-digital-mentor.md):
+- [AI Digital Mentor — RAG-Powered Learning Application](/#ai-digital-mentor):
   Built a Retrieval-Augmented Generation app on the Anthropic API to answer
   concept questions from course material.
 
 ## Resume & Contact
 - [Resume/CV (PDF)](/Sarthak_Sabharwal_Resume.pdf): Full formatted resume.
-- [Contact](/contact.md): Best way to reach me for opportunities or collaboration.
+- [Contact](/#contact): Best way to reach me for opportunities or collaboration.
 
 ## Optional
 - [LinkedIn](https://www.linkedin.com/in/sarthakmsabharwal)
