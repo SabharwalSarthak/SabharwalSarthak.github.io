@@ -1,0 +1,56 @@
+# Sarthak Sabharwal
+
+> Senior Business Analyst with a decade of enterprise delivery across banking,
+> finance, and technology consulting in India and Australia. Currently leading
+> AI governance for a live enterprise pilot, and founder of Nambik AI, an
+> independent AI consultancy.
+
+Currently a Senior Specialist – Business Analyst at LTM (formerly LTIMindtree),
+leading business analysis for Colonial First State's superannuation wrap
+platform transition. Led the CFS Edge Adviser AI programme through a
+successfully completed Phase 1 pilot — scoped to a select group of
+licensees and practices, covering AI prompt scope, compliance guardrails,
+and cross-functional governance across Product, Risk, Compliance, Change,
+and FNZ. The programme is now expanding to the full CFS Edge adviser base.
+Also sole Business Analyst for "Small Changes," a continuous-improvement
+initiative delivering small, high-impact fixes for advisers, operations,
+and product teams outside the standard quarterly release cycle. Founder of
+Nambik AI, an early-stage AI consultancy — its first engagement a
+production inbound AI voice agent for a print industry client — and
+independently built a RAG-powered learning application on the Anthropic
+API. Certified Scrum Product Owner (CSPO). Based in Melbourne, Australia.
+
+## Career Journey
+- [Career Timeline](/journey.md): Chronological narrative from SAP ABAP
+  developer (Accenture, 2013) through enterprise BA roles (ANZ, LTM/CFS)
+  to AI governance leadership today.
+- [About](/about.md): Background, working philosophy, and approach to
+  responsible AI adoption.
+
+## Certifications & Skills
+- Certified Scrum Product Owner (CSPO)
+- Outskill AI Accelerator (14-day intensive, hackathon capstone)
+- Outskill AI Catalyst Program (6-month practitioner program, in progress —
+  RAG systems, AI agent architecture, MCP integration, voice agents)
+- Core skills: business analysis (BRD development, stakeholder management,
+  AI governance & prompt scope), Agile/Scrum, JIRA, Confluence, AEM, GCP,
+  SAP ABAP, SQL, Tableau, Power BI, RAG architecture, Anthropic API
+
+## Case Studies & Projects
+- [CFS Edge Adviser AI — Governing Enterprise AI Adoption](/projects/cfs-edge-ai.md):
+  Led BA and governance for a pilot scoped to select licensees and
+  practices, now expanding to the full CFS Edge adviser base.
+- [Nambik AI — Founding an Independent AI Consultancy](/projects/nambik-ai.md):
+  Founded Nambik AI and delivered its first client engagement — a live
+  24/7 inbound AI voice agent for a print industry client — using Retell AI,
+  ElevenLabs, and n8n.
+- [AI Digital Mentor — RAG-Powered Learning Application](/projects/ai-digital-mentor.md):
+  Built a Retrieval-Augmented Generation app on the Anthropic API to answer
+  concept questions from course material.
+
+## Resume & Contact
+- [Resume/CV (PDF)](/Sarthak_Sabharwal_Resume.pdf): Full formatted resume.
+- [Contact](/contact.md): Best way to reach me for opportunities or collaboration.
+
+## Optional
+- [LinkedIn](https://www.linkedin.com/in/sarthakmsabharwal)
